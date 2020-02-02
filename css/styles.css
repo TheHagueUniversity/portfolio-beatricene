@@ -1,4 +1,4 @@
-/* Global styles
+/* Home
 ------------------------------------*/
 html {
   box-sizing: border-box;
@@ -69,14 +69,15 @@ h6:hover {
   max-width: 850px;
   width: 85%;
   margin: 0 auto;
-  padding: 80px 0;
+  padding: 50px 0;
 }
 
 .content-wrap-header {
   max-width: 850px;
   width: 85%;
   margin: 0 auto;
-  padding: 30px 0;
+  padding: 40px 0;
+  padding-top: 80px;
 }
 
 .content-wrap-body {
@@ -107,7 +108,7 @@ h6:hover {
   font-weight: 400;
   margin: 30px;
   position: absolute;
-  top: 15px;
+  top: -10px;
   right: 260px;
   text-align: right;
   -webkit-transition: top .25s linear;
@@ -182,13 +183,13 @@ h6:hover {
     font-size: 14px;
 
 }
-/* Profile
-------------------------------------*/
+
 header {
   background: #f5f5f5;
 }
 
-/* Projects
+
+/* Work
 ------------------------------------*/
 .projects {
   background: #ffffff;
@@ -203,6 +204,7 @@ header {
   max-width: 850px;
   height: auto;
 }
+
 
 /* Footer
 --------------------------------------*/
@@ -236,3 +238,18 @@ header {
   content: "\e905";
   color: #1da1f2;
 }
+
+/* About
+--------------------------------------*/
+
+/* Project 1
+--------------------------------------*/
+
+/* Project 2
+--------------------------------------*/
+
+/* Project 3
+--------------------------------------*/
+
+/* Project 4
+--------------------------------------*/
