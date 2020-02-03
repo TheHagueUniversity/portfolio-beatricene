@@ -361,7 +361,22 @@ header {
   margin-right: auto;
 }
 
+.content-wrap-projects video{
+    max-width: 1000px;
+    max-height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
 
+.content-wrap-projects img{
+    max-width: 100%;
+    display: block;
+    padding-bottom: 30px;
+
+
+}
 /* Project 2
 --------------------------------------*/
 
@@ -405,6 +420,22 @@ header {
 /* Project 4
 --------------------------------------*/
 
+    
+#processing-image {
+    width: 500px;
+    padding-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.processing {
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
 .content-wrap-project4 {
   background: #565151;
   width: 100%;
@@ -419,3 +450,5 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
+    
+
