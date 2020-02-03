@@ -304,6 +304,40 @@ header {
   padding-top: 20px;
 }
 
+
+/* Projects
+--------------------------------------*/
+
+.content-wrap-projects {
+  max-width: 850px;
+/*  width: 85%;*/
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.content-wrap-projects h1 {
+   font-size: 35px; 
+   font-weight: 600;
+   padding-top: 50px;
+   padding-bottom: 20px;
+}
+
+.content-wrap-projects h2 {
+   color: #A9A9A9;
+   margin: 0;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   font-size: 15px;
+   font-weight: 600;
+}
+
+.content-wrap-projects p {
+   margin: 0;
+   padding-bottom: 40px;
+    
+}
+
+
 /* Project 1
 --------------------------------------*/
 
@@ -343,6 +377,7 @@ header {
   margin-right: auto;
 }
 
+
 /* Project 3
 --------------------------------------*/
 
@@ -361,6 +396,8 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
+
+
 /* Project 4
 --------------------------------------*/
 
