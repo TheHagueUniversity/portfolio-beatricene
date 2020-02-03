@@ -12,6 +12,10 @@ html {
  } 
 */
 
+#work {
+   margin: auto;
+   
+}
 *, *:before, *:after {
   box-sizing: inherit;
 }
